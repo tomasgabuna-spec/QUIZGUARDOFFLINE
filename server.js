@@ -42,7 +42,7 @@ const os = require("os");
    SETTINGS — change these before your first class
    ========================================================= */
 const PORT = 8080;
-const TEACHER_PASSWORD = "changeme"; // <-- CHANGE THIS
+const TEACHER_PASSWORD = "123456789"; // <-- CHANGE THIS
 
 const DATA_FILE = path.join(__dirname, "examguard_data.json");
 const PUBLIC_DIR = __dirname;
